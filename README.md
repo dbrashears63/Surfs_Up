@@ -15,6 +15,7 @@ Fig. #1
 
 <img class='fit-picture"
 scr="https://raw.githubusercontent.com/dbrashears63/Surfs_Up/main/june.png"
+  alt="grapefuite slice a top a pile of other slices">
 
 
 For the month of December, the average temperature is approximately 71 degrees. With a high of 83 degrees. Seventy five percent of the time the average temperature is 74 degrees. 
