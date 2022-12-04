@@ -19,8 +19,10 @@ src="https://github.com/dbrashears63/Surfs_Up/raw/main/june.png">
 
 For the month of December, the average temperature is approximately 71 degrees. With a high of 83 degrees. Seventy five percent of the time the average temperature is 74 degrees. 
 
-
 Fig. #3
+
+<img class='fit-picture'
+src="https://github.com/dbrashears63/Surfs_Up/raw/main/december.png">
 
 
 ## Summary
