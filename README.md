@@ -10,10 +10,14 @@ Python 3.10, SQLite, SQLAlchemy, hawaii.sqlite, jupyter notebook
 
 ## Results
 For the month of June, the average temperature is approximately 75 degrees. With a high of 85 degrees. Seventy five percent of the time the average temperature is 77 degrees. 
+
 Fig. #1
 
 
+
 For the month of December, the average temperature is approximately 71 degrees. With a high of 83 degrees. Seventy five percent of the time the average temperature is 74 degrees. 
+
+
 Fig. #3
 
 
