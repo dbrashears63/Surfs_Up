@@ -13,7 +13,8 @@ For the month of June, the average temperature is approximately 75 degrees. With
 
 Fig. #1
 
-<img src="https://github.com/dbrashears63/Surfs_Up/blob/main/june.png" height="60" width="60"
+
+https://raw.githubusercontent.com/dbrashears63/Surfs_Up/main/june.png
 
 
 
